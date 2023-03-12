@@ -1,2 +1,10 @@
 # days of coding
- Hey everyone. I'm hereby trying a new language Java. I'm really new to this and hereby I'm giving my codes to suggest me to change things. 
+The journey of learning languages started in 2021 and the thirst to know the new things and trying it lately won't change.
+so, here is my learnings from the first,I'm a beginner so you may find baby programs and you can expect projects and hard programs later in my learning journey. 
+In this repo u can find:
+1) C
+2) CPP
+3) JAVA 
+progs.
+<a>
+
